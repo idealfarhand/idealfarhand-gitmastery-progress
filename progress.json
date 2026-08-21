@@ -1,0 +1,18 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787073565.494883,
+    "completed_at": 1787073567.529017,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787072793.921837,
+    "completed_at": 1787072795.8964,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  }
+]
